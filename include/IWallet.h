@@ -8,6 +8,7 @@
 #include <string>
 #include <vector>
 #include "CryptoNote.h"
+#include "IWalletLegacy.h"
 
 namespace CryptoNote {
 
